@@ -1,2 +1,2 @@
 # Chat_App
- Chat App written in java with CLI
+A basic CLI chat application written in java with a client-server architecture.
